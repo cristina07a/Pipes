@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Cristina\Desktop\Pipes\Pipes\main.cpp(43,29): warning C4101: 'pi': unreferenced local variable
+  Pipes.vcxproj -> C:\Users\Cristina\Desktop\Pipes\x64\Debug\Pipes.exe
